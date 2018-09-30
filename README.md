@@ -1,4 +1,4 @@
-# gatsby-starter-forty-v2
+# gatsby-starter-forty
 
 **This is a starter for Gatsby.js V2.**
 
@@ -16,7 +16,7 @@ http://gatsby-forty-v2.surge.sh/
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 <br/>
-`gatsby new gatsby-starter-forty https://github.com/codebushi/gatsby-starter-forty-v2`
+`gatsby new gatsby-starter-forty https://github.com/codebushi/gatsby-starter-forty`
 
 Run `gatsby develop` in the terminal to start the dev site.
 
