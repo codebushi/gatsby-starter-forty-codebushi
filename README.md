@@ -10,7 +10,7 @@ Gatsby.js V2 starter based on the Forty site template, designed by HTML5 UP. Che
 
 ## Preview
 
-http://gatsby-forty-v2.surge.sh/
+https://gatsby-forty.surge.sh
 
 ## Installation
 
